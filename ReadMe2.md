@@ -9,3 +9,8 @@ pre-commit install
 # 是 Git 中一个用于快速提交已跟踪文件所有变更的快捷命令
 git commit -a
 ```
+
+```bash
+# 生成项目
+ cargo generate Qfish007/bt-template
+```

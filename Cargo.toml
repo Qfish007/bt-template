@@ -1,8 +1,8 @@
 [package]
-name = "template"
+name = "bt-template"
 version = "0.1.0"
 edition = "2021"
-license = "MIT"   # 添加这一行
+license = "MIT"      # 添加这一行
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
+authors = ["Qfish007 <506175003@qq.com>"]
 [dependencies]
