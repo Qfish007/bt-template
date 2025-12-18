@@ -1,5 +1,0 @@
-[template]
-# Skip substitution on these files to avoid syntax conflicts
-skip = [
-    "cliff.toml"
-]
