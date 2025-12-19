@@ -9,8 +9,10 @@ repos:
       - id: check-symlinks
       - id: check-yaml
       - id: end-of-file-fixer
+        exclude: \.md$
       - id: mixed-line-ending
       - id: trailing-whitespace
+        exclude: \.md$
   - repo: https://github.com/psf/black
     rev: 22.10.0
     hooks:
