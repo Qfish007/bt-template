@@ -48,6 +48,7 @@ pre-commit 是一个代码检查工具，可以在提交代码前进行代码检
 pipx install pre-commit
 ```
 
+//todo 每次创建项目都要 
 安装成功后运行 `pre-commit install` 即可。
 
 ### 安装 Cargo deny
