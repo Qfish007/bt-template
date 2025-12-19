@@ -1,6 +1,6 @@
 #![allow(unused)]
 fn test() {
-    println!("Hello, world!");
+    println!("Hello, world!！");
 }
 
 #[cfg(test)]
