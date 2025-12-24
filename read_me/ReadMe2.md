@@ -12,6 +12,9 @@ git commit -a
 # 生成项目
 ```bash
  cargo generate Qfish007/bt-template
+
+ # 安装 pre-commit 钩子
+ pre-commit install
 ```
 
 # 预提交检查
